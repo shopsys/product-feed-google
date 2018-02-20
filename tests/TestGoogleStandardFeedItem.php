@@ -4,7 +4,7 @@ namespace Tests;
 
 use Shopsys\ProductFeed\StandardFeedItemInterface;
 
-class TestStandardFeedItem implements StandardFeedItemInterface
+class TestGoogleStandardFeedItem implements StandardFeedItemInterface
 {
     /**
      * @var int
