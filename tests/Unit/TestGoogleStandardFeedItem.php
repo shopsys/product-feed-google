@@ -1,6 +1,6 @@
 <?php
 
-namespace Tests;
+namespace Tests\ProductFeed\GoogleBundle\Unit;
 
 use Shopsys\ProductFeed\StandardFeedItemInterface;
 
